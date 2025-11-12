@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BackendAsistentemedicoApplication<backend_asistentemedico>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.asistente_medico.back.backend_asistentemedico.BackendAsistentemedicoApplication",
+            "projectName": "backend_asistentemedico",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
